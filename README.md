@@ -29,8 +29,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 2. **Pagination** - need to create a component that would display pages and their links based on how many items we require per page. When clicking a page link, it would update the "current page" number and shift the index we are referencing in order to display the data accordingly.
 3. **Sorting** - currently it sorts by ascending order only, will eventually update to add a descending order option
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
